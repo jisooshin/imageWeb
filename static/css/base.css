@@ -1,0 +1,19 @@
+canvas {
+	margin: 0 1vh 0 1vh;
+	outline: grey 1px solid;
+	max-width: 50vw;
+	max-height: 50vh;
+}
+
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+div.buttons label{
+	margin: 0 1vh 0 1vh;
+}
