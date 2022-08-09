@@ -31,10 +31,6 @@ function uploadImage(){
 
 }
 
-function convertImage(){
-	console.log("Hamster");
-
-}
 
 
 
